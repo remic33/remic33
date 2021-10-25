@@ -1,7 +1,7 @@
 ## Hi there I am Rémi !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/remi-caland)
 ### Thanks for coming here ! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=remic33.visitor-badge)
 
 I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)  
 Currently working on a project involving vines & data (Sentinelles project)  
@@ -9,7 +9,7 @@ Currently working on a project involving vines & data (Sentinelles project)
 Ex-marketing manager, converted to machine learning (was not the easiest one) in 2017/2018 after 2 years of self learning.  
 (thanks datacamp & fast.ai)
 
-** My favorite libraries **  
+**My favorite libraries**  
 - Tensorflow & keras
 - Pandas
 - Fastapi
