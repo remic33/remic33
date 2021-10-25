@@ -3,13 +3,19 @@
 ### Thanks for coming here ! 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am a machine learning engineer at Alcom Technologies, in Bordeaux (France) 
-Currently working on a project involving vines & data. 
+I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)  
+Currently working on a project involving vines & data (Sentinelles project)  
 
-I use mostly python
+Ex-marketing manager, converted to machine learning (was not the easiest one) in 2017/2018 after 2 years of self learning.  
+(thanks datacamp & fast.ai)
+
+** My favorite libraries **  
+- Tensorflow & keras
+- Pandas
+- Fastapi
 
 
-Feel free to contact me on my linkedin page. 
+Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-caland). 
 
 
 
