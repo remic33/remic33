@@ -7,7 +7,7 @@ I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)
 Currently working on a project involving vines & data (Sentinelles project)  
 
 Ex-marketing manager, converted to machine learning (was not the easiest one) in 2017/2018 after 2 years of self learning.  
-(thanks datacamp & fast.ai)
+(thanks to [datacamp](https://www.datacamp.com/) & [fast.ai](https://www.fast.ai/))
 
 **My favorite libraries**  
 - Tensorflow & keras
@@ -17,7 +17,9 @@ Ex-marketing manager, converted to machine learning (was not the easiest one) in
 
 Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-caland). 
 
+Here is a picture of my cat Oscar
 
+<a href="https://zupimages.net/viewer.php?id=21/43/v75i.jpg"><img src="https://zupimages.net/up/21/43/v75i.jpg" alt="Awesome cat" /></a>
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remic33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
