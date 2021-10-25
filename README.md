@@ -17,8 +17,7 @@ Ex-marketing manager, converted to machine learning (was not the easiest one) in
 
 Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-caland). 
 
-Here is a picture of my cat Oscar
 
-<a href="https://zupimages.net/viewer.php?id=21/43/yx3x.jpg"><img src="https://zupimages.net/up/21/43/yx3x.jpg" alt="" /></a>
+<img align="right" width="300" height="300" src="https://zupimages.net/up/21/43/yx3x.jpg" alt="My awesome cat Oscar" /></a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remic33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
