@@ -19,7 +19,6 @@ Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-calan
 
 Here is a picture of my cat Oscar
 
-<a href="https://zupimages.net/viewer.php?id=21/43/v75i.jpg"><img src="https://zupimages.net/up/21/43/v75i.jpg" alt="Awesome cat" /></a>
-
+<a href="https://zupimages.net/viewer.php?id=21/43/yx3x.jpg"><img src="https://zupimages.net/up/21/43/yx3x.jpg" alt="" /></a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remic33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
