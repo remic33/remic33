@@ -3,6 +3,11 @@
 ### Thanks for coming here ! 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=remic33.visitor-badge)
 
+
+<p align="right"> My partner in crime, Oscar </p>
+<img align="right" width="300" height="300" src="https://zupimages.net/up/21/43/yx3x.jpg" alt="My awesome cat Oscar" /></a>
+
+
 I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)  
 Currently working on a project involving vines & data (Sentinelles project)  
 
@@ -18,6 +23,5 @@ Ex-marketing manager, converted to machine learning (was not the easiest one) in
 Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-caland). 
 
 
-<img align="right" width="300" height="300" src="https://zupimages.net/up/21/43/yx3x.jpg" alt="My awesome cat Oscar" /></a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remic33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
