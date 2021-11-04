@@ -12,7 +12,7 @@ I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)
 Currently working on a project involving vines & data (Sentinelles project)  
 
 Ex-marketing manager, converted to machine learning (was not the easiest one) in 2017/2018 after 2 years of self learning.  
-(thanks to [datacamp](https://www.datacamp.com/) & [fast.ai](https://www.fast.ai/))
+(thanks to [datacamp](https://www.datacamp.com/), [fast.ai](https://www.fast.ai/), [Mathematics for machine learning](https://mml-book.github.io/) & [Brilliant](https://brilliant.org/) )
 
 **My favorite libraries**  
 - Tensorflow & keras
