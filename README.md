@@ -15,7 +15,7 @@ Ex-marketing manager, converted to machine learning (was not the easiest one) in
 (thanks to [datacamp](https://www.datacamp.com/), [fast.ai](https://www.fast.ai/), [Mathematics for machine learning](https://mml-book.github.io/) & [Brilliant](https://brilliant.org/) )
 
 **My favorite libraries**  
-- Tensorflow & keras
+- Jax & Flax
 - Pandas
 - Fastapi
 
