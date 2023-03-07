@@ -4,17 +4,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=remic33.visitor-badge)
 
 
-<p align="right"> My partner in crime, Oscar </p>
-<img align="right" width="300" height="300" src="https://zupimages.net/up/21/43/yx3x.jpg" alt="My awesome cat Oscar" /></a>
 
+I am a CTO & cofounder of theseus-ai.com, a deeplearning company focus on conversational intelligence for capital markets. We start from audio conversation datas to produce marketing and sales data for financial institutions. 
 
-I am a machine learning engineer at Alcom Technologies, in Bordeaux (France)  
-Currently working on a project involving vines & data (Sentinelles project)  
-
-Ex-marketing manager, converted to machine learning (was not the easiest one) in 2017/2018 after 2 years of self learning.  
-(thanks to [datacamp](https://www.datacamp.com/), [fast.ai](https://www.fast.ai/), [Mathematics for machine learning](https://mml-book.github.io/) & [Brilliant](https://brilliant.org/) )
+We are hiring developpers, feel free to reach me if the project is in your interest. 
 
 **My favorite libraries**  
+- Tensorflow
 - Jax & Flax
 - Pandas
 - Fastapi
