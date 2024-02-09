@@ -1,7 +1,6 @@
 ## Hi there I am Rémi !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/remi-caland)
 ### Thanks for coming here ! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=remic33.visitor-badge)
 
 
 
