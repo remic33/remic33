@@ -9,15 +9,5 @@ I am a CTO & cofounder of theseus-ai.com, a deeplearning company focus on conver
 
 We are hiring developpers, feel free to reach me if the project is in your interest. 
 
-**My favorite libraries**  
-- Tensorflow
-- Jax & Flax
-- Pandas
-- Fastapi
-
 
 Feel free to contact me on my [linkedin page](https://linkedin.com/in/remi-caland). 
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=remic33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
